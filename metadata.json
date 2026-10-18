@@ -1,0 +1,6 @@
+{
+  "name": "CHRONO//ZERO: THE FIVE-SECOND HEIST",
+  "description": "A 2D cyberpunk stealth puzzle platformer where your past self becomes your teammate using a five-second time-rewind and holographic Echo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
